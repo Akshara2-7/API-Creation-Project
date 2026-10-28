@@ -1,0 +1,27 @@
+.container {
+  font-family: Arial, sans-serif;
+  max-width: 480px;
+  margin: 80px auto;
+  padding: 0 16px;
+}
+
+button {
+  background: #3c873a;
+  color: #fff;
+  border: 0;
+  border-radius: 6px;
+  padding: 12px 22px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2f6b2e;
+}
+
+.output {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
